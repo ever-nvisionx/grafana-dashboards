@@ -3,7 +3,7 @@
     "id": null,
     "uid": "nx-applications-monitoring",
     "title": "NX Applications Monitoring",
-    "tags": ["nx", "applications", "microservices", "api"],
+    "tags": ["nx", "applications", "microservices", "api", "git-sync"],
     "timezone": "browser",
     "schemaVersion": 39,
     "version": 1,

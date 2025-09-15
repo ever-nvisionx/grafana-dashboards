@@ -6,6 +6,7 @@
   "isDefault": true,
   "basicAuth": false,
   "withCredentials": false,
+  "tags": ["git-sync"],
   "jsonData": {
     "httpMethod": "POST",
     "prometheusType": "Prometheus",

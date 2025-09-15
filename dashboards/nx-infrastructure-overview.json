@@ -3,7 +3,7 @@
     "id": null,
     "uid": "nx-infrastructure-overview",
     "title": "NX Infrastructure Overview",
-    "tags": ["nx", "infrastructure", "kubernetes", "overview"],
+    "tags": ["nx", "infrastructure", "kubernetes", "overview", "git-sync"],
     "timezone": "browser",
     "schemaVersion": 39,
     "version": 1,

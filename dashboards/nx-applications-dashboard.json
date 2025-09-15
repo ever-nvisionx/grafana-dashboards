@@ -3,7 +3,7 @@
     "id": null,
     "uid": "nx-applications-dashboard",
     "title": "NX Applications Dashboard",
-    "tags": ["nx-applications", "monitoring", "observability"],
+    "tags": ["nx-applications", "monitoring", "observability", "git-sync"],
     "timezone": "browser",
     "schemaVersion": 39,
     "version": 1,

@@ -5,6 +5,7 @@
   "access": "proxy",
   "basicAuth": false,
   "withCredentials": false,
+  "tags": ["git-sync"],
   "jsonData": {
     "timeout": 60,
     "maxLines": 1000,
