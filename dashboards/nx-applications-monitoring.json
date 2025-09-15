@@ -1,17 +1,16 @@
 {
-  "dashboard": {
-    "id": null,
-    "uid": "nx-applications-monitoring",
-    "title": "NX Applications Monitoring",
-    "tags": ["nx", "applications", "microservices", "api", "git-sync"],
-    "timezone": "browser",
-    "schemaVersion": 39,
-    "version": 1,
-    "refresh": "15s",
-    "time": {
-      "from": "now-30m",
-      "to": "now"
-    },
+  "id": null,
+  "uid": "nx-applications-monitoring",
+  "title": "NX Applications Monitoring",
+  "tags": ["nx", "applications", "microservices", "api", "git-sync"],
+  "timezone": "browser",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "15s",
+  "time": {
+    "from": "now-30m",
+    "to": "now"
+  },
     "panels": [
       {
         "id": 1,
@@ -205,6 +204,4 @@
         }
       ]
     }
-  },
-  "overwrite": true
 }
